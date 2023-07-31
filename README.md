@@ -1,2 +1,2 @@
 # CodeClause_Landing-Page
-This repository consists of a basic web design of landing page named 'creative learner" using html and css components
+This repository consists of a basic web design of landing page named 'creative Learner" using html and css components
